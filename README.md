@@ -15,7 +15,7 @@ To install and run the project, follow these steps:
 git clone https://github.com/iz-rtx/news_app.git
 
 Navigate to the project directory
-cd your_project
+cd news_app
 
 Get the dependencies
 flutter pub get
